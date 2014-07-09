@@ -14,6 +14,6 @@ repo init -u https://github.com/AOKP/platform_manifest.git -b kitkat
 
 repo sync
 
-copy files from my github in the repro
+copy files from my github in the repo
 
 . build/envsetup.sh hwp6_u06
